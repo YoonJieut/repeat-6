@@ -9,7 +9,7 @@ module.exports = {
   mode: isProduction ? 'production' : 'development',
 
   // 진입점 설정 (TypeScript 및 React)
-  entry: './src/index.tsx',
+  entry: './index.html',
 
   // 출력 설정
   output: {
